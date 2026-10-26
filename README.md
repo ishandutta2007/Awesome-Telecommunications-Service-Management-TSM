@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Telecommunications-Service-Management-TSM/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -109,7 +109,7 @@ The following enterprise platforms provide managed, carrier-grade telecom servic
 
 A comprehensive collection of production-grade open-source projects for self-hosted telecom infrastructure, cellular core, billing engines, and OSS provisioning.
 
-> *Sorted descending by GitHub Star count.*
+> *Sorted descending by GitHub Stars_Count.*
 
 ### 🌐 Network Resource Modeling &amp; IPAM
 
